@@ -9,6 +9,7 @@
 **Files:**		report.pdf (This is the report with time analysis and pseudocode) 
 		project.py (this is the python greedy and local implementations
 			    for the posted problem)
+
 `Input:	The input instances have to be dropped in the folder named instances`
 
 `Output: The output will be saved in the solutions folder and returned to
